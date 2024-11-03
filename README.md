@@ -47,37 +47,41 @@ Sigue estos pasos para descargar y ejecutar el proyecto en tu máquina local:
 Clona el repositorio
 ```bash
 git clone https://github.com/usuario/monster-card-showcase.git
+```
 
 Accede a la carpeta del proyecto
 ```bash
 cd monster-card-showcase
+```
 
 Instala las dependencias
 ```bash
 npm install
+```
 
 Inicia el proyecto
 ```bash
 npm run dev
+```
 
 Abre la aplicación en tu navegador en la siguiente URL: http://localhost:5173
 
 ## Uso
-*En la pantalla principal, verás una serie de cartas que representan diferentes monstruos.
-*Haz clic en una carta para abrir un modal con más detalles sobre el monstruo.
-*Usa la barra de navegación para acceder a las secciones de la aplicación.
-*El diseño es responsive, por lo que puedes ver y probar la aplicación en dispositivos de diferentes tamaños de pantalla.
+En la pantalla principal, verás una serie de cartas que representan diferentes monstruos.
+Haz clic en una carta para abrir un modal con más detalles sobre el monstruo.
+Usa la barra de navegación para acceder a las secciones de la aplicación.
+El diseño es responsive, por lo que puedes ver y probar la aplicación en dispositivos de diferentes tamaños de pantalla.
 
 ## Contribuciones
 Si deseas contribuir al proyecto, sigue estos pasos:
 
-*Haz un fork del proyecto.
-*Crea una rama con una nueva funcionalidad (git checkout -b nueva-funcionalidad).
-*Realiza tus cambios y haz un commit (git commit -m 'Añadir nueva funcionalidad').
-*Envía los cambios a tu fork (git push origin nueva-funcionalidad).
-*Abre un Pull Request para revisar tus cambios.
+Haz un fork del proyecto.
+Crea una rama con una nueva funcionalidad (git checkout -b nueva-funcionalidad).
+Realiza tus cambios y haz un commit (git commit -m 'Añadir nueva funcionalidad').
+Envía los cambios a tu fork (git push origin nueva-funcionalidad).
+Abre un Pull Request para revisar tus cambios.
 
-## React + Vite
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
