@@ -49,7 +49,7 @@ const Navbar = ()=> {
             onClick={() => setSearchByCategory('Vampiro')}
             className={({ isActive }) => (isActive ? activeStyle : undefined)}
           >
-            Vampiro
+            Vampiros
           </NavLink>
         </li>
         <li>
@@ -58,7 +58,7 @@ const Navbar = ()=> {
             onClick={() => setSearchByCategory('Licántropo')}
             className={({ isActive }) => (isActive ? activeStyle : undefined)}
           >
-            Licántropo
+            Licántropos
           </NavLink>
         </li>
         <li>
@@ -67,7 +67,7 @@ const Navbar = ()=> {
             onClick={() => setSearchByCategory('Espectro')}
             className={({ isActive }) => (isActive ? activeStyle : undefined)}
           >
-            Espectro
+            Espectros
           </NavLink>
         </li>
         <li>
@@ -76,7 +76,7 @@ const Navbar = ()=> {
             onClick={() => setSearchByCategory('Hechicero')}
             className={({ isActive }) => (isActive ? activeStyle : undefined)}
           >
-            Hechicero
+            Hechiceros
           </NavLink>
         </li>
         <li>
@@ -85,7 +85,7 @@ const Navbar = ()=> {
             onClick={() => setSearchByCategory('Profundo')}
             className={({ isActive }) => (isActive ? activeStyle : undefined)}
           >
-            Profundo
+            Profundos
           </NavLink>
         </li>
       </ul>
