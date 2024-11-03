@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Lilith la Escarlata",
+    "name": "La Condesa Carmesí",
     "category": "Vampiro",
-    "image": "../public/garok.jpg",
-    "description": "Una seductora vampiresa que utiliza sus encantos para manipular a sus víctimas y drenarlas hasta la última gota.",
-    "skill": "Seductor Encantamiento: Hace que un oponente pierda su próximo turno.",
-    "horrorPoints": 80
+    "image": "../public/condesa.jpg",
+    "description": "Una condesa de la nobleza que despierta cada cien años para traer oscuridad y sufrimiento.",
+    "skill": "Invocación de Niebla: Invoca una niebla carmesí válida por un solo turno que le permite esquivar un ataque enemigo.",
+    "horrorPoints": 73
   },
   {
     "id": 2,
@@ -21,19 +21,10 @@
     "id": 3,
     "name": "Nigromante Valtor",
     "category": "Hechicero",
-    "image": "../public/garok.jpg",
+    "image": "../public/valtor.jpg",
     "description": "Un poderoso hechicero que controla a los muertos y los usa como armas.",
     "skill": "Invocación del Cementerio: Puede invocar a un aliado caído en forma de espectro, pero con 75% de sus puntos de terror.",
     "horrorPoints": 78
-  },
-  {
-    "id": 4,
-    "name": "Madame Mortis",
-    "category": "Espectro",
-    "image": "../public/garok.jpg",
-    "description": "Un espectro femenino que aparece en la oscuridad, causando parálisis por miedo.",
-    "skill": "Abrazo Fúnebre: Impide que el oponente ataque durante su próximo turno.",
-    "horrorPoints": 72
   },
   {
     "id": 5,
@@ -48,7 +39,7 @@
     "id": 6,
     "name": "Lord Sanguinus",
     "category": "Vampiro",
-    "image": "",
+    "image": "../public/sanguinus.jpg",
     "description": "Un conde vampiro anciano y sabio, con una elegancia macabra y una sed insaciable de poder y sangre.",
     "skill": "Mordida de Sangre: Absorbe 5 puntos de terror del oponente y los añade a los suyos.",
     "horrorPoints": 70
@@ -57,7 +48,7 @@
     "id": 7,
     "name": "Luna la Cazadora",
     "category": "Licántropo",
-    "image": "",
+    "image": "../public/luna.jpg",
     "description": "Una licántropa ágil y mortal, que se mueve como una sombra en la noche.",
     "skill": "Cazadora de Almas: Incrementa su daño en 20 puntos contra enemigos heridos.",
     "horrorPoints": 73
@@ -66,19 +57,19 @@
     "id": 8,
     "name": "El Carroñero de Almas",
     "category": "Espectro",
-    "image": "",
+    "image": "../public/carroñero.jpg",
     "description": "Un espectro profanado que anhela devorar la esencia vital de los vivos.",
     "skill": "Succión de Almas: Cada turno roba 3 puntos de terror de un oponente.",
     "horrorPoints": 72
   },
   {
     "id": 9,
-    "name": "La Condesa Carmesí",
+    "name": "Lilith Escarlata",
     "category": "Vampiro",
-    "image": "",
-    "description": "Una antigua noble que despierta cada cien años para traer oscuridad y sufrimiento.",
-    "skill": "Invocación de Niebla: Invoca una niebla carmesí válida por un solo turno que le permite esquivar un ataque enemigo.",
-    "horrorPoints": 73
+    "image": "../public/lilith.jpg",
+    "description": "Una seductora vampiresa que utiliza sus encantos para manipular a sus víctimas y drenarlas hasta la última gota.",
+    "skill": "Seductor Encantamiento: Hace que un oponente pierda su próximo turno.",
+    "horrorPoints": 80
   },
   {
     "id": 10,
@@ -93,37 +84,19 @@
     "id": 11,
     "name": "Druida Oscuro Serak",
     "category": "Hechicero",
-    "image": "",
+    "image": "../public/serak.jpg",
     "description": "Un druida que invoca a las sombras de los bosques malditos para atacar.",
     "skill": "Raíces Sombrías: Enreda y daña a todos los enemigos restándoles 2 puntos.",
     "horrorPoints": 85
   },
   {
-    "id": 12,
-    "name": "Necro el Imperecedero",
-    "category": "Espectro",
-    "image": "",
-    "description": "Un espíritu sombrío con una risa macabra que resuena en los campos de batalla.",
-    "skill": "Aliento de Muerte: Reduce en 5 los puntos de terror de cualquier enemigo que lo ataque.",
-    "horrorPoints": 74
-  },
-  {
     "id": 13,
     "name": "Fenris el Devorador",
     "category": "Licántropo",
-    "image": "",
+    "image": "../public/fenris.jpg",
     "description": "Un enorme hombre lobo de pelaje oscuro, con ojos amarillos y garras como cuchillas.",
     "skill": "Modo berseker: Incrementa su ataque en 8 puntos cuando es atacado por un enemigo.",
     "horrorPoints": 90
-  },
-  {
-    "id": 14,
-    "name": "Drakul el Nocheterna",
-    "category": "Vampiro",
-    "image": "",
-    "description": "Un vampiro guerrero, cubierto de una armadura de sombras y con ojos que resplandecen como brasas.",
-    "skill": "Espada de las Tinieblas: Hace retroceder a un oponente, impidiéndole atacar en su siguiente turno.",
-    "horrorPoints": 85
   },
   {
     "id": 15,
@@ -133,14 +106,5 @@
     "description": "Un segador con un gusto por la música extrema. Su guadaña ha sido reemplazada por una guitarra eléctrica, con la que cosecha almas al ritmo del heavy metal.",
     "skill": "Riff infernal: Incrementa en 3 los puntos de terror de tus aliados mientas está en el campo de batalla.",
     "horrorPoints": 80
-  },
-  {
-    "id": 16,
-    "name": "Zandra la Alquimista",
-    "category": "Hechicero",
-    "image": "",
-    "description": "Una hechicera con conocimientos de venenos y alquimia oscura.",
-    "skill": "Conjuro de poder: Incrementa en 5 puntos el ataque de un aliado que elija.",
-    "horrorPoints": 73
   }
 ]
