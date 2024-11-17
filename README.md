@@ -46,12 +46,12 @@ Sigue estos pasos para descargar y ejecutar el proyecto en tu máquina local:
 
 Clona el repositorio
 ```bash
-git clone https://github.com/usuario/monster-card-showcase.git
+git clone https://github.com/Micky-CM/Shadow-Decks
 ```
 
 Accede a la carpeta del proyecto
 ```bash
-cd monster-card-showcase
+cd Shadow-Decks
 ```
 
 Instala las dependencias
